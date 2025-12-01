@@ -1,0 +1,7 @@
+{
+  "name": "Echo - Deep Insight Journal",
+  "description": "A dual-mode journaling assistant. It provides instant empathetic feedback (Flash) and deep psychological analysis (Thinking) based on voice input.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
